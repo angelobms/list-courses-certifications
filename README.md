@@ -1,2 +1,2 @@
-# list-courses-certifications
-List of courses and certifications
+# List of courses and certifications
+
