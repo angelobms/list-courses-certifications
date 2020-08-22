@@ -2,7 +2,7 @@
 
 This is my repository to list all `courses and certifications`. 🤓️
 
-## *Index*
+## Index
 
  - [Higher Education](#higher-education)
  - [Certification](#certification)
