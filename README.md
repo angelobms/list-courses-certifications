@@ -13,6 +13,10 @@ This is my repository to list all `courses and certifications`. 🤓️
 
 ## Certification
 
+- [Team Kanban Practitioner - TKP](/certificates/team_kanban_practitioner_TKP.pdf)
+- [Professional Scrum Master I - PSM I - ScrumOrg](/professional_scrum_master_I_PSMI_Scrum_Org.pdf)
+- [Scrum Fundation Profesional Certificate - CertiProf](/certificates/scrum_fundation_profesional_certificate_certiprof.pdf)
+
 ## Languages
 
 ## Courses
