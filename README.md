@@ -14,7 +14,7 @@ This is my repository to list all `courses and certifications`. 🤓️
 ## Certification
 
 - [Team Kanban Practitioner - TKP](/certificates/team_kanban_practitioner_TKP.pdf)
-- [Professional Scrum Master I - PSM I - ScrumOrg](/professional_scrum_master_I_PSMI_Scrum_Org.pdf)
+- [Professional Scrum Master I - PSM I - ScrumOrg](/certificates/professional_scrum_master_I_PSMI_scrum_org.pdf)
 - [Scrum Fundation Profesional Certificate - CertiProf](/certificates/scrum_fundation_profesional_certificate_certiprof.pdf)
 
 ## Languages
@@ -42,3 +42,11 @@ This is my repository to list all `courses and certifications`. 🤓️
 | Formação java e Orientação a Objetos              | 130 hours |        [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/alura/formacao_java_orientacao_a_objeto.pdf)         |
 | Carreira Desenvolvedor Java                       | 148 hours |           [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/alura/carreira_desenvolvedor_java.pdf)            |
 | Certificação AZ-900: Microsoft Azure Fundamentals | 50 hours  | [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/alura/certificacao_az_900_microsoft_azure_fundamentals.pdf) |
+
+- [LinuxTips](https://www.linuxtips.io/)
+
+
+| Name                      | Workload  | Certificate |
+| ------------------------- | :-: | :--------------------------------------------------------------------------------------------------------: |
+| Uncomplicating Docker     |  -  | [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/linuxtips/uncomplicating_docker.pdf)      |
+| Uncomplicating Kubernetes |  -  | [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/linuxtips/uncomplicating_kubernetes.pdf)  |
