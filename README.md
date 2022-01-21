@@ -13,9 +13,10 @@ This is my repository to list all `courses and certifications`. 🤓️
 
 ## Certification
 
-- [Team Kanban Practitioner - TKP](/certificates/team_kanban_practitioner_TKP.pdf)
-- [Professional Scrum Master I - PSM I - ScrumOrg](/certificates/professional_scrum_master_I_PSMI_scrum_org.pdf)
-- [Scrum Fundation Profesional Certificate - CertiProf](/certificates/scrum_fundation_profesional_certificate_certiprof.pdf)
+- [Team Kanban Practitioner (TKP)](/certificates/team_kanban_practitioner_TKP.pdf)
+- [Professional Scrum Master I (PSM I) - ScrumOrg](/certificates/professional_scrum_master_I_PSMI_scrum_org.pdf)
+- [Scrum Fundation Profesional Certificate (SFPC) - CertiProf](/certificates/scrum_fundation_profesional_certificate_certiprof.pdf)
+- [Microsoft Azure Fundamentals (AZ-900)]() 
 
 ## Languages
 
@@ -35,14 +36,6 @@ This is my repository to list all `courses and certifications`. 🤓️
 | Lideranca com Inteligencia Emocional | 1 hour 45 min  | [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/linkedin/lideranca_com_inteligencia_emocional.pdf) |
 | Como Dar Feedback aos Colaboradores  | 1 hour 7 min   | [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/linkedin/como_dar_feedback_aos_colaboradores.pdf)  |
 
-- [Alura](https://www.alura.com.br)
-
-| Name                                              | Workload  |                                                         Certificate                                                          |
-| ------------------------------------------------- | --------- | :--------------------------------------------------------------------------------------------------------------------------: |
-| Formação java e Orientação a Objetos              | 130 hours |        [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/alura/formacao_java_orientacao_a_objeto.pdf)         |
-| Carreira Desenvolvedor Java                       | 148 hours |           [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/alura/carreira_desenvolvedor_java.pdf)            |
-| Certificação AZ-900: Microsoft Azure Fundamentals | 50 hours  | [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/alura/certificacao_az_900_microsoft_azure_fundamentals.pdf) |
-
 - [LinuxTips](https://www.linuxtips.io/)
 
 
@@ -50,3 +43,12 @@ This is my repository to list all `courses and certifications`. 🤓️
 | ------------------------- | :-: | :--------------------------------------------------------------------------------------------------------: |
 | Uncomplicating Docker     |  -  | [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/linuxtips/uncomplicating_docker.pdf)      |
 | Uncomplicating Kubernetes |  -  | [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/linuxtips/uncomplicating_kubernetes.pdf)  |
+
+- [Alura](https://www.alura.com.br)
+
+| Name                                              | Workload  |                                                         Certificate                                                          |
+| ------------------------------------------------- | --------- | :--------------------------------------------------------------------------------------------------------------------------: |
+| Formação java e Orientação a Objetos              | 130 hours |        [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/alura/formacao_java_orientacao_a_objeto.pdf)         |
+| Carreira Desenvolvedor Java                       | 148 hours |           [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/alura/carreira_desenvolvedor_java.pdf)            |
+| Certificação AZ-900: Microsoft Azure Fundamentals | 50 hours  | [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/alura/certificacao_az_900_microsoft_azure_fundamentals.pdf) |
+| Formação Certificação Java | 80 hours | [![certificate](/images/image_pdf_02_25_x_29.png)](/certificates/alura/formacao_certificacao_java.pdf) 
