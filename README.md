@@ -16,7 +16,7 @@ This is my repository to list all `courses and certifications`. 🤓️
 - [Team Kanban Practitioner (TKP)](/certificates/team_kanban_practitioner_TKP.pdf)
 - [Professional Scrum Master I (PSM I) - ScrumOrg](/certificates/professional_scrum_master_I_PSMI_scrum_org.pdf)
 - [Scrum Fundation Profesional Certificate (SFPC) - CertiProf](/certificates/scrum_fundation_profesional_certificate_certiprof.pdf)
-- [Microsoft Azure Fundamentals (AZ-900)]() 
+- [Microsoft Azure Fundamentals (AZ-900)](/certificates/microsoft_certified_professional_azure_fundamentals.pdf) 
 
 ## Languages
 
