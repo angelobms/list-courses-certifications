@@ -17,6 +17,7 @@ This is my repository to list all `courses and certifications`. 🤓️
 - [Professional Scrum Master I (PSM I) - ScrumOrg](/certificates/professional-scrum-master-I-PSMI-scrum-org.pdf)
 - [Scrum Fundation Profesional Certificate (SFPC) - CertiProf](/certificates/scrum-fundation-profesional-certificate-certiprof.pdf)
 - [Microsoft Azure Fundamentals (AZ-900)](/certificates/microsoft-certified-professional-azure-fundamentals.pdf) 
+- [Oracle Certified Foundations Associate](/certificates/oracle-certified-foundations-associate.pdf)
 
 ## Languages
 
