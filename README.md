@@ -39,19 +39,25 @@ This is my repository to list all `courses and certifications`. 🤓️
 - [LinuxTips](https://www.linuxtips.io/)
 
 
-| Name                      | Workload  | Certificate |
-| ------------------------- | :-: | :--------------------------------------------------------------------------------------------------------: |
-| Uncomplicating Docker     |  -  | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linuxtips/uncomplicating-docker.pdf)      |
-| Uncomplicating Kubernetes |  -  | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linuxtips/uncomplicating-kubernetes.pdf)  |
+| Name                      | Workload |                                                Certificate                                                |
+| ------------------------- | :------: | :-------------------------------------------------------------------------------------------------------: |
+| Uncomplicating Docker     |    -     |   [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linuxtips/uncomplicating-docker.pdf)   |
+| Uncomplicating Kubernetes |    -     | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linuxtips/uncomplicating-kubernetes.pdf) |
 
 - [Alura](https://www.alura.com.br)
 
-| Name                                              | Workload  |                                                         Certificate                                                          |
-| ------------------------------------------------- | --------- | :--------------------------------------------------------------------------------------------------------------------------: |
-| Formação java e Orientação a Objetos              | 130 hours |        [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/formacao-java-orientacao-a-objeto.pdf)         |
-| Carreira Desenvolvedor Java                       | 148 hours |           [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/carreira-desenvolvedor-java.pdf)            |
-| Certificação AZ-900: Microsoft Azure Fundamentals | 50 hours  | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/certificacao-az-900-microsoft-azure-fundamentals.pdf) |
-| Formação Certificação Java | 80 hours | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/formacao-certificacao-java.pdf) |
-| Maven: Build do zero a web | 6 hours | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/maven-build-do-zero-a-web.pdf) |
-| Maven: Gerencie o build do seu projeto Java | 12 hours | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/maven-gerencie-o-build-do-seu-projeto-java.pdf) |
-| Maven: Gerenciamento de dependências e build de aplicações Java | 8 hours | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/maven-gerenciamento-dependencias-build-aplicacoes-java.pdf) |
+| Name                                                            | Workload  |                                                            Certificate                                                             |
+| --------------------------------------------------------------- | --------- | :--------------------------------------------------------------------------------------------------------------------------------: |
+| Formação java e Orientação a Objetos                            | 130 hours |           [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/formacao-java-orientacao-a-objeto.pdf)            |
+| Carreira Desenvolvedor Java                                     | 148 hours |              [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/carreira-desenvolvedor-java.pdf)               |
+| Certificação AZ-900: Microsoft Azure Fundamentals               | 50 hours  |    [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/certificacao-az-900-microsoft-azure-fundamentals.pdf)    |
+| Formação Certificação Java                                      | 80 hours  |               [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/formacao-certificacao-java.pdf)               |
+| Maven: Build do zero a web                                      | 6 hours   |               [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/maven-build-do-zero-a-web.pdf)                |
+| Maven: Gerencie o build do seu projeto Java                     | 12 hours  |       [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/maven-gerencie-o-build-do-seu-projeto-java.pdf)       |
+| Maven: Gerenciamento de dependências e build de aplicações Java | 8 hours   | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/maven-gerenciamento-dependencias-build-aplicacoes-java.pdf) |
+
+- [desenvolvedor.io](https://desenvolvedor.io/)
+
+| Name                                   | Workload |                                                          Certificate                                                          |
+| -------------------------------------- | -------- | :---------------------------------------------------------------------------------------------------------------------------: |
+| Fundamentos de Arquitetura de Software | 13 hours | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/desenvolvedor-io/fundamentos-de-arquitetura-de-software.png) |
