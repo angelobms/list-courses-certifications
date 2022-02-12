@@ -56,6 +56,14 @@ This is my repository to list all `courses and certifications`. 🤓️
 | Maven: Build do zero a web                                      | 6 hours   |               [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/maven-build-do-zero-a-web.pdf)                |
 | Maven: Gerencie o build do seu projeto Java                     | 12 hours  |       [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/maven-gerencie-o-build-do-seu-projeto-java.pdf)       |
 | Maven: Gerenciamento de dependências e build de aplicações Java | 8 hours   | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/maven-gerenciamento-dependencias-build-aplicacoes-java.pdf) |
+|                                                                 |           |                              [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/)                              |
+
+- [TI Exames]()
+
+| Name                                                                    | Workload |                                                                   Certificate                                                                    |
+| ----------------------------------------------------------------------- | -------- | :----------------------------------------------------------------------------------------------------------------------------------------------: |
+| EXIN Privacy and Data Protection Níveis Essentials & Foundation         | 15 hours |    [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/ti-exames/EXIN-privacy-and-data-protection-essentials-and-foundation.pdf)    |
+| Formação Scrum Master Essentials Preparatório exame PSM I® da Scrum.org | 15 hours | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/ti-exames/formação-scrum-master-essentials-preparatório-para-o-exame-PSM-I.pdf) |
 
 - [desenvolvedor.io](https://desenvolvedor.io/)
 
