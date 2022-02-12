@@ -58,7 +58,7 @@ This is my repository to list all `courses and certifications`. 🤓️
 | Maven: Gerenciamento de dependências e build de aplicações Java | 8 hours   | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/maven-gerenciamento-dependencias-build-aplicacoes-java.pdf) |
 |                                                                 |           |                              [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/alura/)                              |
 
-- [TI Exames]()
+- [TI Exames](https://tiexames.com.br)
 
 | Name                                                                    | Workload |                                                                   Certificate                                                                    |
 | ----------------------------------------------------------------------- | -------- | :----------------------------------------------------------------------------------------------------------------------------------------------: |
