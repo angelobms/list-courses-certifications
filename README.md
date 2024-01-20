@@ -4,10 +4,12 @@ This is my repository to list all `courses and certifications`. 🤓️
 
 ## Index
 
- - [Higher Education](#higher-education)
- - [Certification](#certification)
- - [Languages](#languages)
- - [Courses](#courses)
+- [List of courses and certifications](#list-of-courses-and-certifications)
+  - [Index](#index)
+  - [Higher Education](#higher-education)
+  - [Certification](#certification)
+  - [Languages](#languages)
+  - [Courses](#courses)
 
 ## Higher Education
 
@@ -44,6 +46,7 @@ This is my repository to list all `courses and certifications`. 🤓️
 | ------------------------- | :------: | :-------------------------------------------------------------------------------------------------------: |
 | Uncomplicating Docker     |    -     |   [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linuxtips/uncomplicating-docker.pdf)   |
 | Uncomplicating Kubernetes |    -     | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linuxtips/uncomplicating-kubernetes.pdf) |
+| AWS Expert                |    -     | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linuxtips/aws-expert.pdf)                |
 
 - [Alura](https://www.alura.com.br)
 
