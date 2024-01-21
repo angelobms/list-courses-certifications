@@ -29,13 +29,20 @@ This is my repository to list all `courses and certifications`. 🤓️
 
 | Name                                 | Workload       |                                                     Certificate                                                     |
 | ------------------------------------ | -------------- | :-----------------------------------------------------------------------------------------------------------------: |
+| Docker for Developers                | 1 hours 05 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/docker-for-developers-2019.pdf)            |
+| JMeter: Performance and Load Testing | 0 hours 32 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/jmeter-performance-and-load-testing.pdf)                |
+| Teamwork Essentials: Stand Out as a Valuable Team Member | 0 hours 28 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/teamwork-essentials-stand-out-as-a-valuablet-team-member.pdf)  |
+| Building Trust | 0 hours 58 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/building-trust-2018.pdf) |
+| Communication within Teams | 0 hours 44 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/communication-within-teams.pdf) |
+| Teamwork Foundations | 1 hours 16 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/teamwork-foundations-2015.pdf) |
+| Learning Agility | 0 hours 35 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/learning-agility.pdf) |
 | Learning Java                        | 2 hours 39 min |            [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/learning-java.pdf)             |
-| Java 8 Essential Training            | 6 hours 4 min  |  [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/linkedin/java-8-essential-training.pdf)  |
-| Reactive Programming with Java 8     | 2 hours 46 min |       [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/reactive-programming-with-java-8.pdf)        |
-| Spring Spring Cloud                  | 1 hour 12 min  |         [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/spring-spring-cloud.pdf)          |
-| Learning Git and GitHub 2015         | 1 hour 21 min  |     [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/learning-git-and-gitHub-2015.pdf)     |
-| Elasticsearch Essential Training     | 1 hour 31 min  |   [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/elasticsearch-essential-training.pdf)   |
-| Learning the Elastic Stack           | 1 hour 50 min  |      [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/learning-the-elastic-stack.pdf)      |
+| Java 8 Essential Training            | 6 hours 4 min  | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/linkedin/java-8-essential-training.pdf)  |
+| Reactive Programming with Java 8     | 2 hours 46 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/reactive-programming-with-java-8.pdf)        |
+| Spring Spring Cloud                  | 1 hour 12 min  | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/spring-spring-cloud.pdf)          |
+| Learning Git and GitHub 2015         | 1 hour 21 min  | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/learning-git-and-gitHub-2015.pdf)     |
+| Elasticsearch Essential Training     | 1 hour 31 min  | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/elasticsearch-essential-training.pdf)   |
+| Learning the Elastic Stack           | 1 hour 50 min  | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/learning-the-elastic-stack.pdf)      |
 | Lideranca com Inteligencia Emocional | 1 hour 45 min  | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/lideranca-com-inteligencia-emocional.pdf) |
 | Como Dar Feedback aos Colaboradores  | 1 hour 7 min   | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/como-dar-feedback-aos-colaboradores.pdf)  |
 
