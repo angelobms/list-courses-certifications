@@ -30,13 +30,13 @@ This is my repository to list all `courses and certifications`. 🤓️
 | Name                                 | Workload       |                                                     Certificate                                                     |
 | ------------------------------------ | -------------- | :-----------------------------------------------------------------------------------------------------------------: |
 | Docker for Developers                | 1 hours 05 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/docker-for-developers-2019.pdf)            |
-| JMeter: Performance and Load Testing | 0 hours 32 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/jmeter-performance-and-load-testing.pdf)                |
-| Teamwork Essentials: Stand Out as a Valuable Team Member | 0 hours 28 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/teamwork-essentials-stand-out-as-a-valuablet-team-member.pdf)  |
-| Building Trust | 0 hours 58 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/building-trust-2018.pdf) |
-| Communication within Teams | 0 hours 44 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/communication-within-teams.pdf) |
+| JMeter: Performance and Load Testing |    32 min      | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/jmeter-performance-and-load-testing.pdf)                |
+| Teamwork Essentials: Stand Out as a Valuable Team Member | 28 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/teamwork-essentials-stand-out-as-a-valuablet-team-member.pdf)  |
+| Building Trust | 58 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/building-trust-2018.pdf) |
+| Communication within Teams | 44 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/communication-within-teams.pdf) |
 | Teamwork Foundations | 1 hours 25 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/teamwork-foundations.pdf) |
 | Teamwork Foundations (2015) | 1 hours 16 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/teamwork-foundations-2015.pdf) |
-| Learning Agility | 0 hours 35 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/learning-agility.pdf) |
+| Learning Agility | 35 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/learning-agility.pdf) |
 | Learning Java                        | 2 hours 39 min |            [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/learning-java.pdf)             |
 | Java 8 Essential Training            | 6 hours 4 min  | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/linkedin/linkedin/java-8-essential-training.pdf)  |
 | Reactive Programming with Java 8     | 2 hours 46 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/reactive-programming-with-java-8.pdf)        |
@@ -81,3 +81,10 @@ This is my repository to list all `courses and certifications`. 🤓️
 | Name                                   | Workload |                                                          Certificate                                                          |
 | -------------------------------------- | -------- | :---------------------------------------------------------------------------------------------------------------------------: |
 | Fundamentos de Arquitetura de Software | 13 hours | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/desenvolvedor-io/fundamentos-de-arquitetura-de-software.png) |
+
+- [Udemy](https://udemy.com/)
+
+| Name                                   | Workload |                                                          Certificate                                                          |
+| -------------------------------------- | -------- | :---------------------------------------------------------------------------------------------------------------------------: |
+| RabbitMQ: de A-Z com exemplos          | 1 hour 30 min | [![certificate](/images/image-pdf-02-25-x-29.png)](/certificates/desenvolvedor-io/fundamentos-de-arquitetura-de-software.png) |
+
